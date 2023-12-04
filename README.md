@@ -1,5 +1,6 @@
 # CS2-Arduino-Triggerbot
 Arduino Triggerbot for Counter Strike 2, made by CEZA.
+
 Discord: ceza6466
 
 ### [Türkçe]
