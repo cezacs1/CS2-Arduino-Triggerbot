@@ -1,6 +1,8 @@
 # CS2-Arduino-Triggerbot
 Arduino Triggerbot for Counter Strike 2, made by CEZA.
 
+Discord: ceza6466
+
 ### [Türkçe]
 #### Bu setup için Gerekenler şunlar: Bir adet arduino uno r3, 1 adet sg90 model servo motor, 3 adet jumper kablo, 1 adet ekstra mouse (model farketmez tıklasın yeter).
 #### Nasıl hazırladım? 
