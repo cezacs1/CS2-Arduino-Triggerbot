@@ -8,8 +8,8 @@ void setup() {
   servoMotor.write(90);
 }
 
-char oldvalue = ' '; // Tek bir karakter olarak tanımlanmış ve boş bir karakterle başlatılmış
-bool alreadyRotated = false; // Servo motorun zaten döndürüldüğünü kontrol etmek için bir bayrak kullanılıyor
+char oldvalue = ' ';
+bool alreadyRotated = false;
 
 void loop() {
   if (Serial.available() > 0) { 
