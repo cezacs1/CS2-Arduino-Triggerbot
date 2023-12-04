@@ -34,7 +34,7 @@ void loop()
         delay(1000);
 
         servoMotor.write(90);
-        //alreadyRotated = true; // Servo motor döndürüldüğünde bayrağı true yap
+        //alreadyRotated = true; // Servo motor döndürüldüğünde true yap
       }
     }
   }
