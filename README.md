@@ -11,3 +11,6 @@ Discord: ceza6466
 
 ### :)
 ![](https://cdn.discordapp.com/attachments/1126451636450103420/1181234079136493678/20231204_170146.jpg)
+
+### Video:
+https://streamable.com/6jx4cz
