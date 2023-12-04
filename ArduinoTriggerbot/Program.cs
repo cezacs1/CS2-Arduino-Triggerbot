@@ -57,11 +57,11 @@
                         arduino.SendCommand("1");
 
                         // ateş ettikten sonra bir süre bekle
-                        Thread.Sleep(1500); 
+                        Thread.Sleep(1250); 
                     }
 
                     // döngü hızı için gecikme
-                    Thread.Sleep(10);
+                    Thread.Sleep(1);
                 }
             }).Start();
         }
