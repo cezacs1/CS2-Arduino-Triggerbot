@@ -44,7 +44,7 @@
                 while (true)
                 {
                     // localplayerpawn'ı okuma. Eğer 0 ise offsetler bozuk olabilir kontrol edin.
-                    UInt64 local = memory.Read<UInt64>(memory.client + (offsets.dwlocalplayer));
+                    UInt64 local = memory.Read<UInt64>(memory.client + offsets.dwlocalplayer);
 
                     byte crossid = memory.Read<byte>(local + offsets.ıdentityındex);
 
